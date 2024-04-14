@@ -1,0 +1,44 @@
+$ git log
+commit 1edf259e7101264c11d9c0a91143fbecf8c080cc (HEAD -> master, origin/master, origin/bug2, bug2)
+Merge: 72fbaa9 3d8c868
+Author: IvanGacov <136637874+IvanGacov@users.noreply.github.com>
+Date:   Sun Apr 14 20:25:43 2024 +0200
+
+    Merge pull request #2 from IvanGacov/bug2-1
+
+    Fix wrong condition in makeBigStringFrom.
+
+commit 3d8c8687c97293e8da8a39e839e632086cede249 (origin/bug2-1)
+Author: IvanGacov <136637874+IvanGacov@users.noreply.github.com>
+Date:   Sun Apr 14 20:25:23 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom.
+
+commit 72fbaa91bb4271716b6ddbe129d6f51dae90eb39
+Merge: c3c4f7c 60efbb3
+Author: IvanGacov <136637874+IvanGacov@users.noreply.github.com>
+Date:   Sun Apr 14 20:22:21 2024 +0200
+
+    Merge pull request #1 from IvanGacov/bug1
+
+    Fix wrong condition in filterOddLengthStrings.
+
+commit 60efbb30a5e17118c98373cd3e7b32ff7185b355
+Author: IvanGacov <136637874+IvanGacov@users.noreply.github.com>
+Date:   Sun Apr 14 20:02:05 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings.
+
+commit c3c4f7c1c8d590bd6fed702eec0e0200f05e6314 (bug1)
+Author: IvanGacov <ivan.gacov@yahoo.com>
+Date:   Fri Mar 29 20:35:28 2024 +0100
+
+    Add starter code
+
+commit 5389a407122390ddd6f7097de92463527e86b8e3
+Author: IvanGacov <ivan.gacov@yahoo.com>
+Date:   Fri Mar 29 20:21:18 2024 +0100
+
+    Initial commit
+
+[3~[3;2

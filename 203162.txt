@@ -1,0 +1,24 @@
+4. $ git init 
+
+5. $ git remote add origin https://github.com/IvanGacov/SI_2024_lab1_203162.git
+   $ git remote -v
+
+6. $ cat > README.md
+   $ git add README.md
+   $ git commit -m "Initial commit"
+
+7. $ git add *.java
+   $ git commit -m "Add starter code"
+
+8. $ git push origin --all
+
+9. $ git branch bug1
+   $ git branch bug2
+
+28. $ cat > logs.txt
+    $ git add logs.txt
+    $ git add 203162.txt
+    $ git commit -m "Final commit"
+
+29. git push origin -all
+

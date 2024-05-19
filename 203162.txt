@@ -15,6 +15,8 @@
 9. $ git branch bug1
    $ git branch bug2
 
+od 10 do 28 gi napraviv preku stranata  
+
 28. $ cat > logs.txt
     $ git add logs.txt
     $ git add 203162.txt
